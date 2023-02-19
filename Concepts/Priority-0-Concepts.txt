@@ -1,0 +1,24 @@
+#---HTML----#
+- [ ] HTML5 and HTML 4 diff
+- [ ] Besic concepts of HTTP
+- [ ] What is put and post method
+
+#---JavaScript----#
+- [ ] ES6 ES5 diff
+- [ ] Difference between let var and const;
+- [ ] All array Methods
+- [ ] Objects and object Methods
+- [ ] What is polypill and Transpiling.
+- [ ] What is XSS(cross site scripting) , how to prevent in React or any dev env
+- [ ] What is class .
+- [ ] spread and rest operator in javascript
+- [ ] Concepts of Object oriented progrmming -: https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/
+- [ ]( Every day practice one problem of DSA :- leetCode free materials only )
+
+#---CSS----#
+- [ ] What is pseudo class in css
+- [ ] What is specificity
+- [ ] What css variables
+- [ ] What flex and grid
+- [ ] What is block and in-line
+- [ ] (try to design somthing intresting you see on web)

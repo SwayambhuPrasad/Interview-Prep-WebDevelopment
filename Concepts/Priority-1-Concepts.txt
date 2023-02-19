@@ -1,0 +1,12 @@
+#---React----#
+
+- [ ] How does react code JSX gets coveted into js .
+- [ ] What is reducers.(Read all about hooks in react) 
+- [ ] Dynamic Routing (Read all about routing in react) 
+- [ ] Diff between useMemo and useCallback.
+- [ ] What does Bebel do in react.
+- [ ] What is code splitting 
+- [ ] What is webWorkers
+- [ ] How to optimise the react app
+- [ ] What is webworkers
+- [ ] What is webshocket 

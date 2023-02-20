@@ -1,7 +1,9 @@
 #---HTML----#
 - [ ] HTML5 and HTML 4 diff
 - [ ] Besic concepts of HTTP
+- [ ] Different HTTP methods
 - [ ] What is put and post method
+- [ ] Read about HTML tags and attribute
 
 #---JavaScript----#
 - [ ] ES6 ES5 diff

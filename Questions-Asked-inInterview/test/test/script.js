@@ -3,7 +3,38 @@
 
 // ------------------------------- Every time you see this its a new question or topic
 
+// -------------------------------
 
+//Write a fuction that two consicutive duplicate items each time and returns a string with no consicutive letters
+Input: foobar
+Output: fbar
+
+Input: abbac
+Output: c
+
+Input: abbaaac
+Output: c
+
+Input: abbba
+Output: aba
+// Answer
+
+function bombers(str) {
+  // logic
+  //[a,b,c,c,c,d]
+  let count = 0;
+  let output = str.split("");
+  output.forEach((res, i) => {
+    if (res === output[i + 1]) {
+      output.splice(i, 2);
+    }
+  });
+  output.forEach((res, i) => {
+    if (res === output[i + 1]) count++;
+  });
+  if (count > 0) output = bombers(output.join("")).split("");
+  return output.join("");
+}
 
 // -------------------------------
 //given a object write a fuction to search the object with string input
